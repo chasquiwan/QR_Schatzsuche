@@ -5,7 +5,7 @@
 <details><summary>Erster Hinweis</summary>
 <p>
 
-<img src="01_station_erster_hinweis.png">
+![](01_station_erster_hinweis.png)
 
 </p>
 </details>
