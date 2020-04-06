@@ -1,6 +1,6 @@
 # Station 01
 
-01_Station.mp3
+01_station.mp3
 
 [Hier gehts zum ersten Hinweis](#erster-hinweis)
 
