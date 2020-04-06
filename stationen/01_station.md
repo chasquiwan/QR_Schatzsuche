@@ -2,14 +2,18 @@
 
 01_Station.mp3
 
-<details><summary>CLICK ME</summary>
+<details><summary>Erster Hinweis</summary>
 <p>
 
-#### yes, even hidden code blocks!
+<img src="01_station_erster_hinweis.png">
 
-```python
-print("hello world!")
-```
+</p>
+</details>
+
+<details><summary>Zweiter Hinweis</summary>
+<p>
+
+<img src="01_station_zweiter_hinweis.png">
 
 </p>
 </details>
