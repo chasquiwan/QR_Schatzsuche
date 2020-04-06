@@ -2,7 +2,3 @@ theme: jekyll-theme-slate
 
 title: Schatzsuche
 description: Eine kleine Schatzsuche durch Wangen
-
-markdown: kramdown
-kramdown:
-  parse_block_html: true
