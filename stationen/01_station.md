@@ -19,7 +19,7 @@ audio/01_station.mp3
 
 [Zurück](#station-01)
 
-![](01_station_A.png)
+![](img/01_station_A.png)
 
 [Zurück](#station-01)
 
@@ -36,7 +36,7 @@ audio/01_station.mp3
 
 [Zurück](#station-01)
 
-![](01_station_B.jpg)
+![](img/01_station_B.jpg)
 
 [Zurück](#station-01)
 
