@@ -1,6 +1,6 @@
-# Station 1
+# Station 5
 
-audio/02_station.mp3
+audio/06_station.mp3
 
 [Hier gehts zum ersten Hinweis](#erster-hinweis)
 
@@ -18,11 +18,11 @@ audio/02_station.mp3
 
 ## Erster Hinweis
 
-[Zurück](#station-1)
+[Zurück](#station-5)
 
-![](img/02_station_A.png)
+![](img/06_station_A.png)
 
-[Zurück](#station-1)
+[Zurück](#station-5)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -35,10 +35,10 @@ audio/02_station.mp3
 
 ## Zweiter Hinweis
 
-[Zurück](#station-1)
+[Zurück](#station-5)
 
-![](img/02_station_B.jpg)
+![](img/06_station_B.jpg)
 
-[Zurück](#station-1)
+[Zurück](#station-5)
 
 {% include open_embed.html %}
