@@ -1,6 +1,6 @@
 # Station 7
 
-audio/08_station.mp3
+audio/07_station.mp3
 
 [Hier gehts zum ersten Hinweis](#erster-hinweis)
 
