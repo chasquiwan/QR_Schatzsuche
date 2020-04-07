@@ -1,6 +1,6 @@
 # Station 01
 
-01_station.mp3
+audio/01_station.mp3
 
 [Hier gehts zum ersten Hinweis](#erster-hinweis)
 
@@ -19,7 +19,7 @@
 
 [Zurück](#station-01)
 
-![](01_station_erster_hinweis.png)
+![](01_station_A.png)
 
 [Zurück](#station-01)
 
@@ -36,7 +36,7 @@
 
 [Zurück](#station-01)
 
-![](01_station_zweiter_hinweis.png)
+![](01_station_B.jpg)
 
 [Zurück](#station-01)
 
