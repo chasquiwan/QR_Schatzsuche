@@ -1,6 +1,6 @@
 # Station 3
 
-audio/03_station.mp3
+audio/03_station.m4a
 
 [Hier gehts zum ersten Hinweis](#erster-hinweis)
 
